@@ -1,4 +1,3 @@
-```markdown
 # Aplicación de Generación de Imágenes OpenAI
 
 Esta es una aplicación Shiny que utiliza la API de OpenAI para generar imágenes basadas en la entrada del usuario.
@@ -30,4 +29,3 @@ La función `renderUI` se utiliza para mostrar la imagen generada en la página.
 ## Ejecutando la Aplicación
 
 Para ejecutar la aplicación, utilice la función `shinyApp` con los objetos `ui` y `server` como argumentos.
-```
