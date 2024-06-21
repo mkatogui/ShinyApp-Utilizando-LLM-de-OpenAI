@@ -30,6 +30,7 @@ La función `renderUI` se utiliza para mostrar la imagen generada en la página.
 
 Para ejecutar la aplicación, utilice la función `shinyApp` con los objetos `ui` y `server` como argumentos.
 
+https://m-katogui.shinyapps.io/OpenAIGeneracionDeImagenes/ 
 
 ![image](https://github.com/mkatogui/LLM/assets/60530366/8acb9f63-1594-4120-b80a-f3ae24c77998)
 
