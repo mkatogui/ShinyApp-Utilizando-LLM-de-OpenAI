@@ -1,3 +1,4 @@
+install.packages("openai")
 library(shiny)
 
 # Define UI for application
